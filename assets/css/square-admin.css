@@ -1,0 +1,23 @@
+.square-admin-form{
+  padding: 20px;
+}
+
+.square-admin-form input[type=text]{
+  width: 65%;
+  height: 40px;
+}
+
+.square-admin-form select{
+  width: 300px;
+  height: 40px;
+}
+
+.view-details{
+	padding-top: 5px;
+}
+
+.view-details ul li span{
+	font-weight: bold;
+	width: 250px;
+    display: inline-block;
+}
